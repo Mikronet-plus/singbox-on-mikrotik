@@ -37,6 +37,16 @@ ipv6:fc07:55::2/64 set to veth
 
 container/config/set registry-url=https://registry-1.docker.io tmpdir=pull  
 
+
+other docker registry link :  
+
+https://docker.arvancloud.ir. 
+https://registry.docker.ir. 
+https://docker.host:5000. 
+https://docker.iranserver.com. 
+https://docker.dockerme.ir. 
+
+
 **Finally, add mounts and pull the Docker image**  
 Mounts:  
 src:/s-ui/db  
