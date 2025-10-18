@@ -1,4 +1,4 @@
-# singbox-on-mikrotik   
+# singbox-on-mikrotik   ARM or X-86 CPU
 
 # استفاده از کانفیگ سینگ باکس در سرور یا روتر میکروتیک دارای پردازنده ARM یا X-86
 
